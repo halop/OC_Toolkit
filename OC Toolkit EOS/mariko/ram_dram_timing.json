@@ -1,0 +1,15 @@
+[
+    {
+        "name": "AUTO_ADJ_ALL",
+        "hex": "0000"
+    },
+    {
+        "name": "AUTO_ADJ_HP",
+        "hex": "0100"
+    },
+    {
+        "name": "NO_ADJ_ALL",
+        "hex": "0200"
+    }
+]
+

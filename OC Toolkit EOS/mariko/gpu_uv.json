@@ -1,17 +1,17 @@
 [
     {
         "name": "0",
-        "label": "0 - HiOPT",
+        "label": "0 - Default Table",
         "hex": "00"
     },
     {
         "name": "1",
-        "label": "1 - HiOPT -20mV(3)",
+        "label": "1 - SLT",
         "hex": "01"
     },
     {
         "name": "2",
-        "label": "2 - high UV table",
+        "label": "2 - HiOPT",
         "hex": "02"
     },
     {
