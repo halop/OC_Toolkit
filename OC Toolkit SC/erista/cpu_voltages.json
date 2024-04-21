@@ -58,50 +58,5 @@
         "name": "1257 mV",
         "label": "1257 mV - Default",
         "dec": "1257"
-    },
-    {
-        "name": "1260 mV",
-        "label": "1260 mV",
-        "dec": "1260"
-    },
-    {
-        "name": "1265 mV",
-        "label": "1265 mV",
-        "dec": "1265"
-    },
-    {
-        "name": "1270 mV",
-        "label": "1270 mV",
-        "dec": "1270"
-    },
-    {
-        "name": "1275 mV",
-        "label": "1275 mV",
-        "dec": "1275"
-    },
-    {
-        "name": "1280 mV",
-        "label": "1280 mV",
-        "dec": "1280"
-    },
-    {
-        "name": "1285 mV",
-        "label": "1285 mV",
-        "dec": "1285"
-    },
-    {
-        "name": "1290 mV",
-        "label": "1290 mV",
-        "dec": "1290"
-    },
-    {
-        "name": "1295 mV",
-        "label": "1295 mV",
-        "dec": "1295"
-    },
-    {
-        "name": "1300 mV",
-        "label": "1300 mV",
-        "dec": "1300"
     }
 ]

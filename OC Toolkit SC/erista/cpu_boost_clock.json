@@ -18,5 +18,15 @@
         "name": "2091 MHz",
         "label": "2091 MHz",
         "hex": "F8E71F"
+    },
+    {
+        "name": "2193 MHz",
+        "label": "2193 MHz",
+        "hex": "687621"
+    },
+    {
+        "name": "2295 MHz",
+        "label": "2295 MHz",
+        "hex": "D80423"
     }
 ]
