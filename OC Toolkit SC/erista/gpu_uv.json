@@ -6,7 +6,18 @@
     },
     {
         "name": "1",
-        "label": "1 - Custom static",
+        "label": "1 - M static +30mV",
         "hex": "01"
+    },
+    {
+        "name": "2",
+        "label": "2 - high UV table",
+        "hex": "02"
+    },
+    {
+        "name": "3",
+        "label": "3 - Custom static",
+        "hex": "03"
     }
+
 ]
