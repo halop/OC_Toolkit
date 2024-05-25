@@ -1,15 +1,15 @@
 [
     {
         "name": "AUTO_ADJ",
-        "hex": "0000"
+        "hex": "00"
     },
     {
         "name": "AUTO_ADJ_HP",
-        "hex": "0100"
+        "hex": "01"
     },
     {
         "name": "NO_ADJ",
-        "hex": "0200"
+        "hex": "03"
     }
 ]
 
