@@ -8,6 +8,10 @@
         "hex": "01"
     },
     {
+        "name": "AUTO_ADJ_LV",
+        "hex": "02"
+    },
+    {
         "name": "NO_ADJ",
         "hex": "03"
     }
