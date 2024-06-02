@@ -12,8 +12,12 @@
         "hex": "02"
     },
     {
-        "name": "NO_ADJ",
+        "name": "AUTO_ADJ_LV_HP",
         "hex": "03"
+    },
+    {
+        "name": "NO_ADJ",
+        "hex": "04"
     }
 ]
 
